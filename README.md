@@ -19,11 +19,14 @@ The `cicd_compress_send` script simplifies the process of deploying games to itc
 ### Requirements
 
 - Python
+- Git
 - [Butler](https://github.com/itchio/butler)
 
 ### Configuration
 
 - Set the `itchio_user` variable to your itch.io username.
+- initialize a git repository
+- change branch into production
   
 ### Usage
 
